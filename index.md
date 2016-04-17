@@ -4,12 +4,17 @@ layout: page
 
 {{ site.description }}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have experience programming with [Python](http://python.org){:target="_blank"},
+[Java](https://www.java.com){:target="_blank"} [Javascript](https://www.java.com/){:target="_blank"}
+and more.
+In addition, I have experience working cloud services such as
+[Amazon Web Service](https://aws.amazon.com/){:target="_blank"}.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am currently a software engineering student at [Iowa State University](http://iastate.edu){:target="_blank"} and
+working as a developer for [Dupont Pioneer](http://pioneer.com){:target="_blank"}.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+See more of my skills and experience on my [résumé](/resume).
+
+Also, read more about my work on my [projects page](/projects).
+
+

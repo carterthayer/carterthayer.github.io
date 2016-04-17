@@ -11,8 +11,9 @@ first_name: Carter
 last_name: Thayer
 email: carterwthayer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a software engineer currently studying at Iowa State University.
-  I like writing Python.
+    My name is Carter Thayer. I'm a software engineer from Ames, Iowa.
+    I have been writing code for the past 8 years. I have experience with
+    many areas of computer science and programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://carterthayer.com" # the base hostname & protocol for your site
 twitter_username: carterthayer
