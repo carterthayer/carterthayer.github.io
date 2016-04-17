@@ -4,12 +4,15 @@ title: Résumé
 permalink: /resume/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Education
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+| **Iowa State University** | | | | **Waukee High School** |
+| ------------------------- | | | | ---------------------- |
+| *Ames, Iowa*              | | | | *Waukee, Iowa*         |
+| Software Engineering      | | | |                        |
+| 2013 - Present            | | | | 2009 - 2013            |
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+# Technical Skills and Experience
+
+# Work Experience
