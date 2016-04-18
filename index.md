@@ -15,6 +15,6 @@ working as a developer for [Dupont Pioneer](http://pioneer.com){:target="_blank"
 
 See more of my skills and experience on my [résumé](/resume).
 
-Also, read more about my work on my [projects page](/projects).
+Also, see some of my open source projects on [Github](http://github.com/carterthayer).
 
 
