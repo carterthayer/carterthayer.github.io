@@ -13,8 +13,5 @@ In addition, I have experience working cloud services such as
 I am currently a software engineering student at [Iowa State University](http://iastate.edu){:target="_blank"} and
 working as a developer for [Dupont Pioneer](http://pioneer.com){:target="_blank"}.
 
-See more of my skills and experience on my [résumé](/resume).
-
-Also, see some of my open source projects on [Github](http://github.com/carterthayer).
-
-
+This portfolio should introduce you to me, my projects and my experience both at Iowa State and 
+in the workplace.
