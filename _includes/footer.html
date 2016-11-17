@@ -1,4 +1,6 @@
-<footer class="site-footer"> <div class="wrapper">
+<footer class="site-footer">
+
+  <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
@@ -7,6 +9,12 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2"></div>
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list">
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -18,26 +26,6 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2"></div>
-      <div class="footer-col footer-col-3">
-          Table of Contents
-        <ul class="post-footer-list">
-            {% for my_page in site.pages %}
-              {% if my_page.title %}
-              <li>
-                <a href="{{ my_page.url }}">{{ my_page.title }}</a>
-              </li>
-                {% endif %}
-            {% endfor %}
-            {% for post in site.posts %}
-                <li>
-                    <a href="{{ post.url }}">{{post.title}}</a>
-                </li>
-            {% endfor %}
-
         </ul>
       </div>
 

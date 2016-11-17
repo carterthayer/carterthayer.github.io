@@ -3,7 +3,9 @@
   <div class="wrapper">
 
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.first_name }} <span class='last-name'>{{ site.last_name }}</span></a>
+  </div>
 
+  <div class="wrapper">
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -19,9 +21,13 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% for post in site.posts %}
+          {% if post.title %}
+          <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 
   </div>
-
 </header>

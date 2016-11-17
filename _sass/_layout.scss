@@ -2,7 +2,7 @@
  * Site header
  */
 
-$header-height: 120px;
+$header-height: 100px;
 .site-header {
     border-top: 5px solid #444444;//$grey-color-dark;
     //border-bottom: 1px solid $grey-color-light;
@@ -36,8 +36,8 @@ $header-height: 120px;
 }
 
 .site-nav {
-    float: right;
-    line-height: $header-height;
+    float: left;
+    //line-height: $header-height;
 
     .menu-icon {
         display: none;
@@ -50,6 +50,9 @@ $header-height: 120px;
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
+        }
+        &:hover {
+            color: $brand-color;
         }
     }
 
